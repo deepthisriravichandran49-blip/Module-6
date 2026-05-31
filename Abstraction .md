@@ -1,5 +1,3 @@
-<img width="691" height="320" alt="image" src="https://github.com/user-attachments/assets/193c2b51-d9c0-43f1-bd7d-ea4e141ef40c" /># 🐍 Python OOP: Abstract Class & Method Example
-
 ## 🎯 AIM
 
 To create an **abstract class** named `Shape` with an **abstract method** `calculate_area`, and implement this method in two subclasses: `Rectangle` and `Circle`.
